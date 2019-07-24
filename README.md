@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
-You can use the [editor on GitHub](https://github.com/ingridyfan/ingridyfan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is an online portfolio of all of my past projects, including academic, extracurricular, and professional (if discretionary restrictions allow). Please refer to my [GitHub profile](https://github.com/ingridyfan) to view source code for any of my public technical projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
