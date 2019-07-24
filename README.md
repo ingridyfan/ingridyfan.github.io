@@ -1,8 +1,19 @@
-## Welcome to My Website
+## Welcome to My Website!
 
 This is an online portfolio of all of my past projects, including academic, extracurricular, and professional (if discretionary restrictions allow). Please refer to my [GitHub profile](https://github.com/ingridyfan) to view source code for any of my public technical projects. 
 
 ### About Me
+
+My name is Ingrid Fan and I am an undergraduate senior at Stanford University studying Symbolic Systems with a concentration in Artificial Intelligence. I'm especially passionate about the intersection of human psychology and technology, which has thus led me to interesting opportunities in marketing technologies and UI/UX. 
+
+In my free time, I am an amateur photographer, singer, and a self-declared comedian. 
+
+  Useless talents include but are not limited to: 
+    - Minesweeper Expertise
+    - Fire Instagram Captions
+    - Duck Imitation
+    - Kermit the Frog Impression
+    - Basic knowledge on how to play Bridge
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,7 +26,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
 1. Numbered
 2. List
 
@@ -25,10 +35,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ingridyfan/ingridyfan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
