@@ -8,12 +8,14 @@ My name is Ingrid Fan and I am an undergraduate senior at Stanford University st
 
 In my free time, I am an amateur photographer, singer, and a self-declared comedian. 
 
-  Useless talents include but are not limited to: 
-    - Minesweeper Expertise
-    - Fire Instagram Captions
-    - Duck Imitation
-    - Kermit the Frog Impression
-    - Basic knowledge on how to play Bridge
+```
+Useless talents include but are not limited to: 
+- Minesweeper Expertise
+- Fire Instagram Captions
+- Duck Imitation
+- Kermit the Frog Impression
+- Basic knowledge on how to play Bridge
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
