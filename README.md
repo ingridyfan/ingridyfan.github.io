@@ -4,15 +4,14 @@ This is an online portfolio of all of my past projects, including academic, extr
 
 ### About Me
 
-My name is Ingrid Fan and I am an undergraduate senior at Stanford University studying Symbolic Systems with a concentration in Artificial Intelligence. I'm especially passionate about the intersection of human psychology and technology, which has thus led me to interesting opportunities in marketing technologies and UI/UX. 
+My name is Ingrid Fan and I am a masters student at Stanford University studying Computer Science with a concentration in Human Computer Interaciton. I also obtained my Bacherlor's at Stanford studying Symbolic Systems with a concentration in Artificial Intelligence. I'm especially passionate about the intersection of human psychology and technology, which has thus led me to interesting opportunities in marketing technologies and UI/UX. 
 
 In my free time, I am an amateur photographer, singer, and a self-declared comedian. 
 
 Useless talents include but are not limited to: 
 - Minesweeper Expertise
 - Fire Instagram Captions
-- Duck Imitation
-- Kermit the Frog Impression
+- Duck Impression
 - Basic knowledge on how to play Bridge
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
